@@ -947,7 +947,7 @@ button a:hover{
         background-image: linear-gradient(purple, #ED4B72);
         position: relative;
         animation: mymove 5s infinite;
-        margin-bottom: 20px;animation-fill-mode: both;
+        margin-bottom: 20px;animation-fill-mode: both;gi
       }
 
       @keyframes mymove {
